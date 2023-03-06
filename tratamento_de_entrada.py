@@ -1,4 +1,4 @@
-#Codigo criado para tratar a entrada de usuarios.
+#Codigo criado para tratar a entrada de usuarios..
 
 def nome() -> str:
     nome = input('Digite o seu nome maior que 3 caracteres: ')
